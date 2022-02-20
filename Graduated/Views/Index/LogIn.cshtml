@@ -1,0 +1,73 @@
+﻿@model logIn
+@{
+    ViewBag.Title = "LogIn";
+    Layout = "~/Views/shared/_layout.cshtml";
+}
+@section link{
+    <link href="~/Content/LogIn.css" rel="stylesheet" />
+}
+
+@section navlog{
+
+    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+        <a style="text-decoration:none;display:flex;" href="~/Home/Index"><h1 class="logo"> BaliBey<img src="~/images/magic.png" alt="magic" width="47" /> </h1></a>
+    </div>
+    <div class="col-xl-9 col-lg-9 col-md-6 col-sm-6 col-6">
+        <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn" style=" border: 3px solid White;
+                                                                   border-radius: 10px;">
+                <i style="margin-right:2px;" class="fas fa-list-ul dropbtn"></i>
+            </button>
+            <div id="show" class="dropdown-content">
+                <a class="li a" href="~/Home/Index"><i style="margin-right:2px;" class="fas fa-mug-hot"></i> Menu</a>
+                <a class="li a" href="#search"> <i style="margin-right:2px;" class="fas fa-search"></i>  Search Menu </a>
+                <a class="li a" href="#about"> <i style="margin-right:2px;" class="fas fa-address-card"> </i>  About Us </a>
+                <a class="li a" href="#Social"> <i style="margin-right:2px;" class="fas fa-headphones-alt"> </i>  Contacts </a>
+            </div>
+        </div>
+    </div>
+}
+<!-- Log In -->
+
+<section data-aos="zoom-in" class="MenSec" data-aos-duration="1500">
+    <p class="Title">Log In</p>
+    <br />
+    @using (Html.BeginForm("LogIn", "Index", FormMethod.Post, new { @class = "form-details" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="Form">
+            <div>
+                <form action="Editor.html" method="post" class="form-details">
+                    <div>
+                        <img src="~/images/3.png" alt="Balibey" class="bali-form-img">
+                    </div>
+                    <div class="Items">
+                        <div class="s-how">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger " })
+                        </div>
+                        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "label" })
+                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "input", @placeholder = "Email" } })
+                        <br />
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger", @style = "font-size:18px;" })
+                    </div>
+                    <div class="Items">
+                        @Html.LabelFor(model => model.pwd, htmlAttributes: new { @class = "label" })
+                        @Html.EditorFor(model => model.pwd, new { htmlAttributes = new { @class = "input", @placeholder = "Password" } })
+                        <br />
+                        @Html.ValidationMessageFor(model => model.pwd, "", new
+                        {
+                            @class = "text-danger",
+                            style = "font-size:18px;"
+                        })
+                    </div>
+                    <div>
+                        <input type="submit" class="submit" value="LogIn">
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    }
+
+</section>
+@section search{ }

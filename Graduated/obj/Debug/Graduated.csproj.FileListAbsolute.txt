@@ -1,0 +1,301 @@
+E:\Graduated\Graduated\Graduated\bin\Graduated.dll.config
+E:\Graduated\Graduated\Graduated\bin\Graduated.dll
+E:\Graduated\Graduated\Graduated\bin\Graduated.pdb
+E:\Graduated\Graduated\Graduated\bin\roslyn\csc.exe
+E:\Graduated\Graduated\Graduated\bin\roslyn\csc.exe.config
+E:\Graduated\Graduated\Graduated\bin\roslyn\csc.rsp
+E:\Graduated\Graduated\Graduated\bin\roslyn\csi.exe
+E:\Graduated\Graduated\Graduated\bin\roslyn\csi.exe.config
+E:\Graduated\Graduated\Graduated\bin\roslyn\csi.rsp
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.AppContext.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Collections.Immutable.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Console.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Globalization.Calendars.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.IO.Compression.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.IO.FileSystem.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Net.Http.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Net.Sockets.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Reflection.Metadata.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.ValueTuple.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.XPath.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Graduated\Graduated\Graduated\bin\roslyn\vbc.exe
+E:\Graduated\Graduated\Graduated\bin\roslyn\vbc.exe.config
+E:\Graduated\Graduated\Graduated\bin\roslyn\vbc.rsp
+E:\Graduated\Graduated\Graduated\bin\roslyn\VBCSCompiler.exe
+E:\Graduated\Graduated\Graduated\bin\roslyn\VBCSCompiler.exe.config
+E:\Graduated\Graduated\Graduated\bin\EntityFramework.dll
+E:\Graduated\Graduated\Graduated\bin\EntityFramework.SqlServer.dll
+E:\Graduated\Graduated\Graduated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Graduated\Graduated\Graduated\bin\Microsoft.Web.Infrastructure.dll
+E:\Graduated\Graduated\Graduated\bin\System.Web.Helpers.dll
+E:\Graduated\Graduated\Graduated\bin\System.Web.Mvc.dll
+E:\Graduated\Graduated\Graduated\bin\System.Web.Razor.dll
+E:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Deployment.dll
+E:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.dll
+E:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Razor.dll
+E:\Graduated\Graduated\Graduated\bin\EntityFramework.xml
+E:\Graduated\Graduated\Graduated\bin\EntityFramework.SqlServer.xml
+E:\Graduated\Graduated\Graduated\bin\System.Web.Razor.xml
+E:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.xml
+E:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Deployment.xml
+E:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Razor.xml
+E:\Graduated\Graduated\Graduated\bin\System.Web.Helpers.xml
+E:\Graduated\Graduated\Graduated\bin\System.Web.Mvc.xml
+E:\Graduated\Graduated\Graduated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.AssemblyReference.cache
+E:\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.CoreCompileInputs.cache
+E:\Graduated\Graduated\Graduated\obj\Debug\Graduated.dll
+E:\Graduated\Graduated\Graduated\obj\Debug\Graduated.pdb
+F:\Graduated\Graduated\Graduated\bin\Graduated.dll.config
+F:\Graduated\Graduated\Graduated\bin\Graduated.dll
+F:\Graduated\Graduated\Graduated\bin\Graduated.pdb
+F:\Graduated\Graduated\Graduated\bin\roslyn\csc.exe
+F:\Graduated\Graduated\Graduated\bin\roslyn\csc.exe.config
+F:\Graduated\Graduated\Graduated\bin\roslyn\csc.rsp
+F:\Graduated\Graduated\Graduated\bin\roslyn\csi.exe
+F:\Graduated\Graduated\Graduated\bin\roslyn\csi.exe.config
+F:\Graduated\Graduated\Graduated\bin\roslyn\csi.rsp
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.AppContext.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Collections.Immutable.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Console.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Globalization.Calendars.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.IO.Compression.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.IO.FileSystem.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Net.Http.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Net.Sockets.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Reflection.Metadata.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.ValueTuple.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.XPath.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Graduated\Graduated\Graduated\bin\roslyn\vbc.exe
+F:\Graduated\Graduated\Graduated\bin\roslyn\vbc.exe.config
+F:\Graduated\Graduated\Graduated\bin\roslyn\vbc.rsp
+F:\Graduated\Graduated\Graduated\bin\roslyn\VBCSCompiler.exe
+F:\Graduated\Graduated\Graduated\bin\roslyn\VBCSCompiler.exe.config
+F:\Graduated\Graduated\Graduated\bin\EntityFramework.dll
+F:\Graduated\Graduated\Graduated\bin\EntityFramework.SqlServer.dll
+F:\Graduated\Graduated\Graduated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Graduated\Graduated\Graduated\bin\Microsoft.Web.Infrastructure.dll
+F:\Graduated\Graduated\Graduated\bin\System.Web.Helpers.dll
+F:\Graduated\Graduated\Graduated\bin\System.Web.Mvc.dll
+F:\Graduated\Graduated\Graduated\bin\System.Web.Razor.dll
+F:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Deployment.dll
+F:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.dll
+F:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Razor.dll
+F:\Graduated\Graduated\Graduated\bin\EntityFramework.xml
+F:\Graduated\Graduated\Graduated\bin\EntityFramework.SqlServer.xml
+F:\Graduated\Graduated\Graduated\bin\System.Web.Razor.xml
+F:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.xml
+F:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Deployment.xml
+F:\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Razor.xml
+F:\Graduated\Graduated\Graduated\bin\System.Web.Helpers.xml
+F:\Graduated\Graduated\Graduated\bin\System.Web.Mvc.xml
+F:\Graduated\Graduated\Graduated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.AssemblyReference.cache
+F:\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.CoreCompileInputs.cache
+F:\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.CopyComplete
+F:\Graduated\Graduated\Graduated\obj\Debug\Graduated.dll
+F:\Graduated\Graduated\Graduated\obj\Debug\Graduated.pdb
+F:\Graduated\Graduated\Graduated\obj\Debug\Graduated.Migrations.initalcreate.resources
+F:\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.GenerateResource.cache
+F:\Graduated\Graduated\Graduated\obj\Debug\Graduated.Migrations.initalcreate1.resources
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Graduated.dll.config
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Graduated.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Graduated.pdb
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csc.exe
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csc.exe.config
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csc.rsp
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csi.exe
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csi.exe.config
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csi.rsp
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Collections.Immutable.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Reflection.Metadata.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\vbc.exe
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\vbc.exe.config
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\vbc.rsp
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\VBCSCompiler.exe
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\VBCSCompiler.exe.config
+E:\Faculty project\Graduated\Graduated\Graduated\bin\EntityFramework.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\EntityFramework.SqlServer.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Web.Infrastructure.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Helpers.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Mvc.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Razor.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Deployment.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Razor.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\EntityFramework.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\EntityFramework.SqlServer.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Razor.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Deployment.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Razor.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Helpers.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Mvc.xml
+E:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.CoreCompileInputs.cache
+E:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.CopyComplete
+E:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.dll
+E:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.pdb
+E:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.Migrations.initalcreate.resources
+E:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.GenerateResource.cache
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Graduated.dll.config
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Graduated.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Graduated.pdb
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csc.exe
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csc.exe.config
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csc.rsp
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csi.exe
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csi.exe.config
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\csi.rsp
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.AppContext.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Collections.Immutable.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Console.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Globalization.Calendars.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.IO.Compression.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.IO.FileSystem.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Net.Http.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Net.Sockets.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.ValueTuple.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.XPath.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\vbc.exe
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\vbc.exe.config
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\vbc.rsp
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\VBCSCompiler.exe
+D:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\VBCSCompiler.exe.config
+D:\Faculty project\Graduated\Graduated\Graduated\bin\EntityFramework.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\EntityFramework.SqlServer.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Web.Infrastructure.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Helpers.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Mvc.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Razor.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Deployment.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Razor.dll
+D:\Faculty project\Graduated\Graduated\Graduated\bin\EntityFramework.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\EntityFramework.SqlServer.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Razor.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Deployment.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Webpages.Razor.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Helpers.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\System.Web.Mvc.xml
+D:\Faculty project\Graduated\Graduated\Graduated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.AssemblyReference.cache
+D:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.Migrations.initalcreate.resources
+D:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.GenerateResource.cache
+D:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.CoreCompileInputs.cache
+D:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.CopyComplete
+D:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.dll
+D:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.pdb
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Buffers.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Memory.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Numerics.Vectors.dll
+E:\Faculty project\Graduated\Graduated\Graduated\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.Migrations.Edit.resources
+E:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.Migrations.editCat.resources
+E:\Faculty project\Graduated\Graduated\Graduated\obj\Debug\Graduated.csproj.AssemblyReference.cache

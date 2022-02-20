@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+.Form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+.form-details {
+    padding: 30px;
+    border: 2px solid #086454;
+    border-radius: 25px;
+    box-shadow: 5px 5px 30px #086454;
+    width: fit-content;
+    margin: auto;
+}
+.bali-form-img{
+    width:180px;
+}
+.Items {
+    text-align: center;
+    display: block;
+    margin: 15px auto;
+}
+.label{
+    display: inline-block;
+    width: 105px;
+    text-align: left;
+    font-size:23px;
+}
+.input{
+    width: 350px;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border: 1px solid #086454;
+    border-radius:5px;
+    justify-content: center;
+}
+.submit {
+    padding: 10px 15px;
+    font-size: 20px;
+    border: 2px solid #0a5447;
+    border-radius: 15px;
+    color: white;
+    background-color: #086454;
+}
+.submit:hover{
+    color:#086454;
+    background-color: white;
+    cursor: pointer;
+}
+.s-how {
+    display:flex;
+    text-align:center;
+    justify-content:center;
+}
+.DropList {
+    width: 100%;
+    border-style: none;
+    text-align: center;
+    font-size: 25px;
+    cursor:pointer;
+}
+@media(max-width:580px){
+    .Form{
+        font-size:15px;
+    }
+    .bali-form-img{
+        width:60%;
+    }
+    .label {
+        width: 70%;
+        font-size: 100%;
+    }
+    .input{
+        width:70%;
+        font-size:80%;
+    }
+    .submit{
+        padding:5px 10px;
+        font-size:80%;
+    }
+    .form-details{
+        width:80%;
+    }
+}
