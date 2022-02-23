@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+:root {
+    --bg-color: #008e76;
+    --bd-color: #086454;
+    --bn-color: #0a5447;
+    --ft-color: white;
+}
 .Form {
     display: flex;
     flex-wrap:wrap;
@@ -16,9 +22,9 @@
 }
 .form-details {
     padding: 20px;
-    border: 2px solid #086454;
+    border: 2px solid var(--bd-color);
     border-radius: 25px;
-    box-shadow: 5px 5px 30px #008e76;
+    box-shadow: 5px 5px 30px var(--bg-color);
     margin-top: 20px;
 }
 .Items{
@@ -36,33 +42,33 @@
     padding: 6px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
-    border: 1px solid #086454;
+    border: 1px solid var(--bd-color);
     border-radius:5px;
 }
 .submit {
     padding: 10px 15px;
     font-size: 20px;
-    border: 2px solid #0a5447;
+    border: 2px solid var(--bn-color);
     border-radius: 15px;
-    color: white;
-    background-color: #086454;
+    color: var(--ft-color);
+    background-color: var(--bd-color);
 }
-.submit:hover{
-    color:#086454;
-    background-color: white;
-    cursor: pointer;
-}        
+    .submit:hover {
+        color: var(--bd-color);
+        background-color: var(--ft-color);
+        cursor: pointer;
+    }        
 video{
     width:700px;
     height:80%;
     justify-content:center;
     margin:auto 10px;
     border-radius: 25px;
-    border: 2px outset #086454;
+    border: 2px outset var(--bd-color);
 }
 .logIn {
     text-decoration: none;
-    color: #008e76;
+    color: var(--bg-color);
 }
 .radio{
     margin-right:10px;

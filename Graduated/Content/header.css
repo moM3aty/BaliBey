@@ -2,20 +2,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
 
+:root {
+    --bg-color: #008e76;
+    --bd-color: #086454;
+    --bn-color: #0a5447;
+    --ft-color: white;
+}
 .container {
     min-width: 100%;
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(to left top, #086454, white);
+    background-image: linear-gradient(to left top, var(--bd-color), var(--ft-color));
 }
 
 .container .card {
     height: 500px;
     width: 95%;
     border-radius: 10px;
-    background-color: #fff;
+    background-color: var(--ft-color);
     position: relative;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
     font-family: 'Poppins', sans-serif;
@@ -31,7 +37,7 @@
 
 .container .card .left-side {
     width: 40%;
-    background-color: #fff;
+    background-color: var(--ft-color);
     height: 100%;
 }
 
@@ -46,7 +52,7 @@
 }
 
 .form .left-side .medium-div h1 {
-    color:#008e76;
+    color:var(--bg-color);
     margin: 25% auto 0;
     font-size: 65px;
     font-family: 'Neonderthaw', cursive;
@@ -58,7 +64,7 @@
     text-align: center;
     font-size: 35px;
     font-family: 'Luxurious Roman', cursive;
-    color: #086454;
+    color: var(--bd-color);
 }
 
 .container .card .right-side {
@@ -108,7 +114,7 @@
 .aboutSection {
     padding: 20px 0;
     margin:auto;
-    border: 4px dashed #086454;
+    border: 4px dashed var(--bd-color);
     width:95%;
     border-radius:25px;
 }
@@ -134,13 +140,13 @@
 
 .card-about .face {
     position: absolute;
-    color: #fff;
+    color: var(--ft-color);
     width: 100%;
     height: 100%;
     overflow: hidden;
-    box-shadow: 0 15px 35px #086454;
+    box-shadow: 0 15px 35px var(--bd-color);
     border-radius: 15px;
-    background-color:#008e76;
+    background-color:var(--bg-color);
     transform-style: preserve-3d;
     transition: 0.5s ease-in-out;
     backface-visibility: hidden;
@@ -173,7 +179,7 @@
 
 .card .face.front-face .designation {
     font-size: 22px;
-    color: white;
+    color: var(--ft-color);
     letter-spacing: 0.8px;
 }
 
@@ -183,7 +189,7 @@
 
 .card-about .face.back-face {
     position: absolute;
-    background-color: #008e76;
+    background-color: var(--bg-color);
     transform: rotateY(180deg);
     padding: 20px 30px;
     text-align: center;

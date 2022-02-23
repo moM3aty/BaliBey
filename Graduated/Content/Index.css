@@ -3,11 +3,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
-body{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+body{
     font-family: Arial, Helvetica, sans-serif;
+}
+:root {
+    --bg-color: #008e76;
+    --bd-color: #086454;
+    --bn-color: #0a5447;
+    --ft-color:white;
 }
 nav {
     display: flex;
@@ -15,11 +23,11 @@ nav {
     position: fixed;
     width: 100%;
     z-index: 10;
-    background-color: #008e76;
+    background-color: var(--bg-color);
     text-align: center;
     font-family: 'Ceviche One', cursive;
     font-size: 22px;
-    border-bottom: 3px solid #086454;
+    border-bottom: 3px solid var(--bd-color);
     justify-content: space-evenly;
     font-weight: lighter;
 }
@@ -27,42 +35,42 @@ nav {
     display:none;
 }
 .logo {
-    color:white;
-    text-shadow: 0.5px 0.5px 20px white;
+    color:var(--ft-color);
+    text-shadow: 0.5px 0.5px 20px var(--ft-color);
     font-size:42px;
     font-family: 'Neonderthaw', cursive;
     font-style:oblique;
 }
 .dropdown-content {
     text-decoration: none;
-    color: white;
+    color: var(--ft-color);
     padding: 10px;
     justify-content: space-between;
     border-bottom: 3px solid transparent;
 }
 .dropdown-content .a:hover {
-    color:white;
-    border-bottom: 3px solid white;
+    color:var(--ft-color);
+    border-bottom: 3px solid var(--ft-color);
 }
 .dropdown-content a {
     text-decoration: none;
-    color: white;
+    color: var(--ft-color);
     padding: 10px 20px;
 }
 .a-log:hover {
-    background-color: white;
-    color: #0a5447;
+    background-color: var(--ft-color);
+    color: var(--bn-color);
 }
 .Register{
     display: flex;
 }
 .a-log {
-    background-color: #086454;
+    background-color: var(--bd-color);
     border-radius: 15px;
-    border: solid 2px #0a5447;
+    border: solid 2px var(--bn-color);
     text-decoration: none;
     text-align: center;
-    color: white;
+    color: var(--ft-color);
     padding: 8px 15px;
     margin: 5px;
 }
@@ -74,7 +82,7 @@ nav {
 .MenSec {
     width: 95%;
     margin: auto;
-    border: 4px dashed #086454;
+    border: 4px dashed var(--bd-color);
     padding: 20px;
     padding-bottom:40px;
     border-radius: 15px;
@@ -86,10 +94,10 @@ footer {
 }
 
 .Footer {
-    background-color: #008e76;
-    border-top: 3px solid #086454;
+    background-color: var(--bg-color);
+    border-top: 3px solid var(--bd-color);
     text-align: center;
-    color: white;
+    color: var(--ft-color);
     padding: 5px;
     margin: 0px;
 }
@@ -101,18 +109,18 @@ footer {
 .Footer ul li {
    list-style: none;
    text-align: center;
-   color: white;
+   color: var(--ft-color);
 }
 .Footer ul li a i {
    text-align: center;
-   border: 1px white solid;
+   border: 1px var(--ft-color) solid;
    padding: 5px;
    border-radius: 10px;
-   color: white;
+   color: var(--ft-color);
 }
 .Footer h1 {
-    color:white;
-    text-shadow: 0.5px 0.5px 20px white;
+    color:var(--ft-color);
+    text-shadow: 0.5px 0.5px 20px var(--ft-color);
     font-size: 65px;
     font-family: 'Neonderthaw', cursive;
 }
@@ -121,12 +129,12 @@ footer {
     text-align: center;
     font-size: 25px;
     font-family: 'Luxurious Roman', cursive;
-    color: white;
+    color: var(--ft-color);
 }
 .FB:hover {
     color: mediumblue;
     cursor: pointer;
-    background: White;
+    background: var(--ft-color);
 }
 .TW:hover {
     color: deepskyblue;
@@ -136,12 +144,12 @@ footer {
 .LI:hover {
     color: darkblue;
     cursor: pointer;
-    background: White;
+    background: var(--ft-color);
 }
 .YT:hover {
     color: red;
     cursor: pointer;
-    background: White;
+    background: var(--ft-color);
 }
 .font {
     font-size: xx-large;
@@ -150,7 +158,7 @@ footer {
 footer .bottom-footer {
     text-align: center;
     background-color: #086454;
-    color: white;
+    color: var(--ft-color);
     font-size: medium;
 }
 footer .bottom-footer p{
@@ -160,7 +168,7 @@ footer .bottom-footer p{
 }
 footer .Footer ul li a {
     text-decoration: none;
-    color: white;
+    color: var(--ft-color);
     font-size: 20px;
 }
 footer .Footer ul li a:hover {
@@ -200,12 +208,12 @@ footer .Footer ul li a:hover {
     .dropdown-content {
         display: none;
         position: absolute;
-        background-color:#008e76;
+        background-color:var(--bg-color);
         right:55%;
         left:-165%;
         top:103%;
         width:190px;
-        border:2px solid #086454;
+        border:2px solid var(--bd-color);
     }
     .dropdown {
         position: relative;
@@ -213,7 +221,7 @@ footer .Footer ul li a:hover {
         z-index:5;
     }
     .dropdown-content a {
-        color: white;
+        color: var(--ft-color);
         padding: 10px 14px;
         text-decoration: none;
         display: block;
@@ -222,8 +230,8 @@ footer .Footer ul li a:hover {
 
     .dropbtn {
         display: block;
-        color: white;
-        background-color: #086454;
+        color: var(--ft-color);
+        background-color: var(--bg-color);
         font-size: 22px;
         border: none;
         cursor: pointer;
@@ -234,12 +242,12 @@ footer .Footer ul li a:hover {
     .dropbtn:hover i,
     .dropbtn:focus,
     .dropbtn:focus i {
-        background-color: #008e76;
+        background-color: var(--bg-color);
     }
 
     .dropdown-content a:hover {
-        border-bottom: 3px solid white;
-        color:white;
+        border-bottom: 3px solid var(--ft-color);
+        color:var(--ft-color);
     }
 
     .m3aty {

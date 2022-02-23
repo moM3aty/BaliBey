@@ -6,34 +6,30 @@
 
 
 @section link{
-    <nav class="container-fluid">
-        <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6">
-            <a style="text-decoration:none;display:flex;" href="~/Home/Editor"><h1 class="logo"> BaliBey<img src="~/images/magic.png" alt="magic" width="47" /> </h1></a>
-        </div>
-        <div class="col-xl-8 col-lg-8 col-md-4 col-sm-4 col-2">
-            <div class="dropdown">
-                <button onclick="myFunction()" class="dropbtn" style=" border: 3px solid White;
-                                                                           border-radius: 10px;">
-                    <i style="margin-right:2px;" class="fas fa-list-ul dropbtn"></i>
-                </button>
-                <div id="show" class="dropdown-content">
-                    <a class="li a" href="~/Home/Editor"><i style="margin-right:2px;" class="fas fa-mug-hot"></i> Menu</a>
-                    <a class="li a" href="#search"> <i style="margin-right:2px;" class="fas fa-search"></i>  Search Menu </a>
-                    <a class="li a" href="#about"> <i style="margin-right:2px;" class="fas fa-address-card"> </i>  About Us </a>
-                    <a class="li a" href="#Social"> <i style="margin-right:2px;" class="fas fa-headphones-alt"> </i>  Contacts </a>
-                </div>
-            </div>
-        </div>
-        <div class="Register col-xl-3 col-lg-3 col-md-4 col-sm-4 col-4">
-            <a class="a-log" href="~/Index/Register"> <i style="margin-right:2px;" class="fas fa-user-plus"> </i> Add User </a>
-            <a class="a-log" href="~/Home/Logout"><i style="margin-right:2px;font-size:20px;" class="fas fa-key"></i> Logout </a>
-        </div>
-    </nav>
 }
 @section navlog{
+    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4">
+        <a style="text-decoration:none;display:flex;" href="~/Home/Editor"><h1 class="logo"> BaliBey<img src="~/images/magic.png" alt="magic" width="47" /> </h1></a>
+    </div>
+    <div class="col-xl-7 col-lg-7 col-md-4 col-sm-4 col-4">
+        <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn" style=" border: 3px solid White;
+                                                                           border-radius: 10px;">
+                <i style="margin-right:2px;" class="fas fa-list-ul dropbtn"></i>
+            </button>
+            <div id="show" class="dropdown-content">
+                <a class="li a" href="~/Home/Editor"><i style="margin-right:2px;" class="fas fa-mug-hot"></i> Menu</a>
+                <a class="li a" href="#search"> <i style="margin-right:2px;" class="fas fa-search"></i>  Search Menu </a>
+                <a class="li a" href="#about"> <i style="margin-right:2px;" class="fas fa-address-card"> </i>  About Us </a>
+                <a class="li a" href="#Social"> <i style="margin-right:2px;" class="fas fa-headphones-alt"> </i>  Contacts </a>
+            </div>
+        </div>
+    </div>
+    <div class="Register col-xl-3 col-lg-3 col-md-4 col-sm-4 col-4">
+        <a class="a-log" href="~/Index/Register"> <i style="margin-right:2px;" class="fas fa-user-plus"> </i> Add User </a>
+        <a class="a-log" href="~/Home/Logout"><i style="margin-right:2px;font-size:20px;" class="fas fa-key"></i> Logout </a>
+    </div>
 }
-
-
 @section search{
     <section class="MenSec " data-aos="zoom-in" data-aos-duration="1500">
 
@@ -45,19 +41,19 @@
         }
         else
         {
-        <button class="show"  data-aos="flip-up" data-aos-duration="1500" style="display:flex;padding-bottom:30px;">
-            @foreach (var items in Model)
-            {
-            <p style="margin-top: -10px;">&clubs; @Html.DisplayFor(w => items.Category.Cat) &clubs;</p>
-                 <m3aty style="margin-left:150px"/>
-                 <div style="margin-top: -10px;">
-                     @Html.ActionLink("Edit", "EditCat", "Home", new { id = items.Category.ID, name = items.Category.Cat }, new { @class = "btn Edit-button" })
-                     @Html.ActionLink("Delete", "DeleteCat", "Home", new { id = items.Category.ID, name = items.Category.Cat }, new { @class = "btn delete-button" })
-                 </div>
-                 <br />
-            }
+            <button class="show" data-aos="flip-up" data-aos-duration="1500" style="display:flex;padding-bottom:30px;">
+                @foreach (var items in Model)
+                {
+                    <p style="margin-top: -10px;">&clubs; @Html.DisplayFor(w => items.Category.Cat) &clubs;</p>
+                    <m3aty style="margin-left:150px" />
+                    <div style="margin-top: -10px;">
+                        @Html.ActionLink("Edit", "EditCat", "Home", new { id = items.Category.ID, name = items.Category.Cat }, new { @class = "btn Edit-button" })
+                        @Html.ActionLink("Delete", "DeleteCat", "Home", new { id = items.Category.ID, name = items.Category.Cat }, new { @class = "btn delete-button" })
+                    </div>
+                    <br />
+                }
 
-        </button>
+            </button>
 
             <div class="product">
 
