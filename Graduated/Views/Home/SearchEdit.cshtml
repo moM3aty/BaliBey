@@ -35,48 +35,51 @@
 
         <label class="Title" data-aos="flip-right" data-aos-duration="1500"> Menu Search</label>
         <br /><br />
-        @if (Model.Count() == 0)
-        {
-            <h2 class="text-danger" style="text-align:center;"> Sorry , This Item Not Found </h2>
-        }
-        else
-        {
-            <button class="show" data-aos="flip-up" data-aos-duration="1500" style="display:flex;padding-bottom:30px;">
-                @foreach (var items in Model)
-                {
-                    <p style="margin-top: -10px;">&clubs; @Html.DisplayFor(w => items.Category.Cat) &clubs;</p>
-                    <m3aty style="margin-left:150px" />
-                    <div style="margin-top: -10px;">
-                        @Html.ActionLink("Edit", "EditCat", "Home", new { id = items.Category.ID, name = items.Category.Cat }, new { @class = "btn Edit-button" })
-                        @Html.ActionLink("Delete", "DeleteCat", "Home", new { id = items.Category.ID, name = items.Category.Cat }, new { @class = "btn delete-button" })
-                    </div>
-                    <br />
-                }
-
-            </button>
-
-            <div class="product">
-
-                @foreach (var item in Model)
-                {
-                    <div class="card-Index" data-aos="flip-down" data-aos-duration="1500">
-                        <div>
-                            <img class="img" src="@Url.Content(item.Path)" alt="@item.name">
+            @if (Model.Count() == 0)
+            {
+                <h2 class="text-danger" style="text-align:center;"> Sorry , This Item Not Found </h2>
+            }
+            else if (ViewData["GetDetails"] == "")
+            {
+                <h2 class="text-danger" style="text-align:center;"> Please enter the category or item you want to search for !</h2>
+            }
+            else
+            {
+                <button class="show" data-aos="flip-up" data-aos-duration="1500" style="display:flex;padding-bottom:30px;">
+                    @foreach (var items in Model)
+                    {
+                        <p style="margin-top: -10px;">&clubs; @Html.DisplayFor(w => items.Category.Cat) &clubs;</p>
+                        <m3aty style="margin-left:150px" />
+                        <div style="margin-top: -10px;">
+                            @Html.ActionLink("Edit", "EditCat", "Home", new { id = items.Category.ID, name = items.Category.Cat }, new { @class = "btn Edit-button" })
+                            @Html.ActionLink("Delete", "DeleteCat", "Home", new { id = items.Category.ID, name = items.Category.Cat }, new { @class = "btn delete-button" })
                         </div>
-                        <p class="card-text">&hearts; @Html.DisplayFor(w => item.name) &hearts;</p>
-                        <p class="card-detail">Price : @Html.DisplayFor(w => item.price) pound</p>
-                        <p class="card-detail">Details :@Html.DisplayFor(w => item.Description)</p>
-                        <div style="margin-bottom:10px;">
-                            @Html.ActionLink("Edit", "Edit", "Home", new { id = item.Id, name = item.name }, new { @class = "btn Edit-button" })
-                            @Html.ActionLink("Delete", "Delete", "Home", new { id = item.Id, name = item.name }, new { @class = "btn delete-button" })
+                        <br />
+                    }
+
+                </button>
+
+                <div class="product">
+
+                    @foreach (var item in Model)
+                    {
+                        <div class="card-Index" data-aos="flip-down" data-aos-duration="1500">
+                            <div>
+                                <img class="img" src="@Url.Content(item.Path)" alt="@item.name">
+                            </div>
+                            <p class="card-text">&hearts; @Html.DisplayFor(w => item.name) &hearts;</p>
+                            <p class="card-detail">Price : @Html.DisplayFor(w => item.price) pound</p>
+                            <p class="card-detail">Details :@Html.DisplayFor(w => item.Description)</p>
+                            <div style="margin-bottom:10px;">
+                                @Html.ActionLink("Edit", "Edit", "Home", new { id = item.Id, name = item.name }, new { @class = "btn Edit-button" })
+                                @Html.ActionLink("Delete", "Delete", "Home", new { id = item.Id, name = item.name }, new { @class = "btn delete-button" })
+                            </div>
                         </div>
-                    </div>
-                }
-            </div>
-        }
+                    }
+                </div>
+            }
 
-
-    </section>
+        </section>
 }
 
 
