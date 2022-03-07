@@ -236,6 +236,7 @@ footer .Footer ul li a:hover {
         border: none;
         cursor: pointer;
         margin: 10px auto;
+        padding:0 2px;
     }
 
     .dropbtn:hover,
