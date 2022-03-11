@@ -1,5 +1,5 @@
 function myFunction() {
-    document.getElementById("show").classList.toggle("m3aty");
+    document.getElementById("show").classList.toggle("SHOW");
 }
 
 window.onclick = function (event) {
@@ -8,8 +8,8 @@ window.onclick = function (event) {
         let i;
         for (i = 0; i < dropdowns.length; i++) {
             let openDropdown = dropdowns[i];
-            if (openDropdown.classList.contains('m3aty')) {
-                openDropdown.classList.remove('m3aty');
+            if (openDropdown.classList.contains('SHOW')) {
+                openDropdown.classList.remove('SHOW');
             }
         }
     }
