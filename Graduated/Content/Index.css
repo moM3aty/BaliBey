@@ -30,6 +30,7 @@ nav {
     border-bottom: 3px solid var(--bd-color);
     justify-content: space-evenly;
     font-weight: lighter;
+    align-items:baseline;
 }
 .dropbtn{
     display:none;
@@ -40,6 +41,10 @@ nav {
     font-size:42px;
     font-family: 'Neonderthaw', cursive;
     font-style:oblique;
+    flex-wrap:nowrap;
+}
+.logo img{
+    width:17%;
 }
 .dropdown-content {
     text-decoration: none;
@@ -201,6 +206,43 @@ footer .Footer ul li a:hover {
     .Footer p{
         font-size:20px;
     }
+    .Itemss {
+        max-width: fit-content;
+    }
+
+    .form-detailss {
+        max-width: 90%;
+    }
+
+    .inputt {
+        max-width: 60%;
+    }
+
+    .logo {
+        font-size: 33px;
+    }
+    .logo img{
+        width:19%;
+    }
+    .a-log {
+        font-size: 15px;
+        padding: 4px 8px;
+        margin: auto;
+    }
+
+    .dropbtn {
+        font-size: 13px;
+        margin: 8px auto;
+    }
+
+    .dropdown-content {
+        width: 150px;
+        font-size: 15px;
+    }
+
+    footer .bottom-footer p {
+        font-size: 12px;
+    }
 
 }
 
@@ -254,35 +296,4 @@ footer .Footer ul li a:hover {
     .SHOW {
         display: block;
     }
-}
-@media (max-width:655px){
-    .Itemss{
-        max-width:fit-content;
-    }
-    .form-detailss{
-        max-width:90%;
-    }
-    .inputt{
-        max-width: 60%;
-    }
-    .logo{
-        font-size:33px;
-    }
-    .a-log{
-        font-size:15px;
-        padding:4px 8px;
-        margin:auto;
-    }
-    .dropbtn{
-        font-size:13px;
-        margin:8px auto;
-    }
-    .dropdown-content{
-        width:150px;
-        font-size:15px;
-    }
-    footer .bottom-footer p {
-        font-size:12px;
-    }
-
 }

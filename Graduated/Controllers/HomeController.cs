@@ -175,7 +175,7 @@ namespace Graduated.Controllers
                 var Menquery = from x in acc.Menu_items select x;
                 if (!string.IsNullOrEmpty(search))
                 {
-                    Menquery = Menquery.Where(x => x.name.Contains(search));
+                    Menquery = Menquery.Where(x => x.name.StartsWith(search));
                 }
                 return View(await Menquery.AsNoTracking().ToListAsync());
             }
@@ -184,7 +184,7 @@ namespace Graduated.Controllers
                 var Menquery = from x in acc.Menu_items select x;
                 if (!string.IsNullOrEmpty(search))
                 {
-                    Menquery = Menquery.Where(x => x.Category.Cat.Contains(search));
+                    Menquery = Menquery.Where(x => x.Category.Cat.StartsWith(search));
                 }
                 return View(await Menquery.AsNoTracking().ToListAsync());
             }
@@ -202,7 +202,7 @@ namespace Graduated.Controllers
                 var Menquery = from x in acc.Menu_items select x;
                 if (!string.IsNullOrEmpty(search))
                 {
-                    Menquery = Menquery.Where(x => x.name.Contains(search));
+                    Menquery = Menquery.Where(x => x.name.StartsWith(search));
                 }
                 return View(await Menquery.AsNoTracking().ToListAsync());
             }
@@ -211,7 +211,7 @@ namespace Graduated.Controllers
                 var Menquery = from x in acc.Menu_items select x;
                 if (!string.IsNullOrEmpty(search))
                 {
-                    Menquery = Menquery.Where(x => x.Category.Cat.Contains(search));
+                    Menquery = Menquery.Where(x => x.Category.Cat.StartsWith(search));
                 }
                 return View(await Menquery.AsNoTracking().ToListAsync());
             }
