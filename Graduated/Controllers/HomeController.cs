@@ -171,11 +171,12 @@ namespace Graduated.Controllers
         {
             ViewData["GetDetails"] = search;
             if (searchBy == "Item")
-            {           
+            {     
+                ViewData["radio"]="Item";
                 var Menquery = from x in acc.Menu_items select x;
                 if (!string.IsNullOrEmpty(search))
                 {
-                    Menquery = Menquery.Where(x => x.name.StartsWith(search));
+                    Menquery = Menquery.Where(x => x.name.Contains(search));
                 }
                 return View(await Menquery.AsNoTracking().ToListAsync());
             }
@@ -199,10 +200,11 @@ namespace Graduated.Controllers
             ViewData["GetDetails"] = search;
             if (searchBy == "Item")
             {
+                ViewData["radio"] = "Item";
                 var Menquery = from x in acc.Menu_items select x;
                 if (!string.IsNullOrEmpty(search))
                 {
-                    Menquery = Menquery.Where(x => x.name.StartsWith(search));
+                    Menquery = Menquery.Where(x => x.name.Contains(search));
                 }
                 return View(await Menquery.AsNoTracking().ToListAsync());
             }
