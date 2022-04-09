@@ -174,7 +174,6 @@
     <Content Include="images\b3.jpg" />
     <Content Include="images\milk.png" />
     <Content Include="images\b2.jpeg" />
-    <Content Include="media\001.mp3" />
     <Content Include="media\coffee.mp4" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
