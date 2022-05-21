@@ -246,7 +246,7 @@ footer .Footer ul li a:hover {
 
 }
 
-@media(max-width:1000px){
+@media(max-width:1049px){
     .dropdown-content {
         display: none;
         position: absolute;
@@ -295,5 +295,32 @@ footer .Footer ul li a:hover {
 
     .SHOW {
         display: block;
+    }
+}
+@media(max-width:700px){
+    .logo{
+        font-size:160%;
+    }
+}
+@media(max-width:602px) {
+    .logo {
+        font-size: 140%;
+    }
+}
+@media(max-width:370px){
+    .dropbtn{
+        font-size:85%;
+    }
+    .logo{
+        font-size:110%;
+    }
+}
+@media(max-width:305px) {
+    .dropbtn {
+        font-size: 85%;
+    }
+
+    .logo {
+        font-size: 100%;
     }
 }
