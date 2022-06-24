@@ -14,7 +14,7 @@ namespace Graduated.Models
 
         [Required(ErrorMessage = "Name is Required !!!")]
         [Display(Name = "Name :")]
-        [StringLength(50, ErrorMessage = "Frist Name must be below 15 Character")]
+        [StringLength(50, ErrorMessage = "Name must be below 15 Character")]
         [DataType(DataType.Text)]
         public string name { get; set; }
 
