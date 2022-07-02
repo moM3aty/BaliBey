@@ -10,11 +10,12 @@
 }
 @section navlog{
     <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4">
-        <a style="text-decoration:none;display:flex;" href="~/Home/Editor"><h1 class="logo"> BaliBey<img src="~/images/magic.png" alt="magic" width="47" /> </h1></a>
+        <a style="text-decoration:none;display:flex;" href="~/Home/Editor"><h1 class="logo1"> BaliBey<img src="~/images/magic.png" alt="magic" width="47" /> </h1></a>
     </div>
-    <div class="col-xl-7 col-lg-7 col-md-4 col-sm-4 col-4">
+    <div class="col-xl-7 col-lg-7 col-md-3 col-sm-2 col-2">
         <div class="dropdown">
-            <button onclick="myFunction()" class="dropbtn" style=" border: 3px solid White;border-radius: 10px;">
+            <button onclick="myFunction()" class="dropbtn" style=" border: 3px solid White;
+                                                                           border-radius: 10px;">
                 <i style="margin-right:2px;" class="fas fa-list-ul dropbtn"></i>
             </button>
             <div id="show" class="dropdown-content">
@@ -25,9 +26,9 @@
             </div>
         </div>
     </div>
-    <div class="Register col-xl-3 col-lg-3 col-md-4 col-sm-4 col-4">
-        <a class="a-log" href="~/Index/Register"> <i style="margin-right:2px;" class="fas fa-user-plus"> </i> Add User </a>
-        <a class="a-log" href="~/Home/Logout"><i style="margin-right:2px;font-size:17px;" class="fas fa-key"></i> Logout </a>
+    <div class="Register col-xl-3 col-lg-3 col-md-5 col-sm-6 col-6">
+        <a class="a-log1" href="~/Index/Register"> <i style="margin-right:2px;" class="fas fa-user-plus"> </i> Add User </a>
+        <a class="a-log1" href="~/Home/Logout"><i style="margin-right:2px;" class="fas fa-key"></i> Logout </a>
     </div>
 }
 
@@ -36,7 +37,7 @@
     @using (Html.BeginForm("EditCat", "Home", FormMethod.Post, new { @class = "form-details" }))
     {
         <div>
-            <img src="~/images/3.png" alt="Balibey" style="width: 150px;">
+            <img src="~/images/3.png" alt="Balibey" style="width: 50%;">
         </div>
         <div class="Items">
             @Html.LabelFor(ww => ww.Cat, htmlAttributes: new { @class = "label", @style = "width:110px;" })

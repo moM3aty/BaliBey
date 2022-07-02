@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\M3ATY\Desktop\Published</_PublishTargetUrl>
-    <History>True|2022-06-23T18:51:32.9391855Z;False|2022-06-23T20:48:08.5861262+02:00;False|2022-06-23T20:45:23.0608508+02:00;</History>
+    <History>True|2022-07-02T06:33:33.3577398Z;True|2022-07-02T08:16:57.5276310+02:00;True|2022-07-01T18:41:32.4348327+02:00;True|2022-07-01T17:51:31.0332513+02:00;True|2022-06-23T20:51:32.9391855+02:00;False|2022-06-23T20:48:08.5861262+02:00;False|2022-06-23T20:45:23.0608508+02:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include=".editorconfig">
@@ -18,10 +18,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>04/16/2020 22:38:56</publishTime>
     </File>
     <File Include="bin/Graduated.dll">
-      <publishTime>06/23/2022 20:51:26</publishTime>
+      <publishTime>07/02/2022 08:33:29</publishTime>
     </File>
     <File Include="bin/Graduated.pdb">
-      <publishTime>06/23/2022 20:51:26</publishTime>
+      <publishTime>07/02/2022 08:33:29</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>07/08/2020 23:52:58</publishTime>
@@ -255,7 +255,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>02/14/2022 07:10:16</publishTime>
     </File>
     <File Include="Content/card.css">
-      <publishTime>02/19/2022 07:23:53</publishTime>
+      <publishTime>07/02/2022 08:00:00</publishTime>
     </File>
     <File Include="Content/fontawesome.css">
       <publishTime>02/14/2022 07:10:16</publishTime>
@@ -264,13 +264,13 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>02/14/2022 07:10:16</publishTime>
     </File>
     <File Include="Content/header.css">
-      <publishTime>06/03/2022 06:04:49</publishTime>
+      <publishTime>07/02/2022 07:19:09</publishTime>
     </File>
     <File Include="Content/Index.css">
-      <publishTime>06/03/2022 06:04:53</publishTime>
+      <publishTime>07/02/2022 06:36:05</publishTime>
     </File>
     <File Include="Content/LogIn.css">
-      <publishTime>02/22/2022 21:02:43</publishTime>
+      <publishTime>07/02/2022 08:05:59</publishTime>
     </File>
     <File Include="Content/regular.css">
       <publishTime>02/14/2022 07:10:15</publishTime>
@@ -431,14 +431,65 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="images/3.png">
       <publishTime>02/19/2022 05:38:25</publishTime>
     </File>
+    <File Include="images/3671746220455278223156784.jpg">
+      <publishTime>02/01/2022 15:31:56</publishTime>
+    </File>
     <File Include="images/4.png">
       <publishTime>02/19/2022 05:37:52</publishTime>
+    </File>
+    <File Include="images/621444225425419.jpg">
+      <publishTime>01/13/2022 08:54:25</publishTime>
     </File>
     <File Include="images/b.png">
       <publishTime>02/19/2022 05:50:20</publishTime>
     </File>
+    <File Include="images/b2.png">
+      <publishTime>02/19/2022 07:35:27</publishTime>
+    </File>
     <File Include="images/b3.jpg">
       <publishTime>01/13/2022 08:04:04</publishTime>
+    </File>
+    <File Include="images/c3222420050223020157.jpg">
+      <publishTime>02/01/2022 15:30:20</publishTime>
+    </File>
+    <File Include="images/ciocc224933879.jpg">
+      <publishTime>01/13/2022 08:49:33</publishTime>
+    </File>
+    <File Include="images/M3aty.png">
+      <publishTime>01/14/2022 14:25:49</publishTime>
+    </File>
+    <File Include="images/magic.png">
+      <publishTime>02/20/2022 06:00:25</publishTime>
+    </File>
+    <File Include="images/magic2.png">
+      <publishTime>02/20/2022 05:59:53</publishTime>
+    </File>
+    <File Include="images/Mango-Juice-2-3225155229.jpg">
+      <publishTime>01/13/2022 08:51:55</publishTime>
+    </File>
+    <File Include="images/milk223228158.png">
+      <publishTime>01/13/2022 08:32:28</publishTime>
+    </File>
+    <File Include="images/mint212200000221251248.jpg">
+      <publishTime>01/14/2022 14:12:51</publishTime>
+    </File>
+    <File Include="images/mokhtar.jpg">
+      <publishTime>01/14/2022 13:54:12</publishTime>
+    </File>
+    <File Include="images/noran.jpg">
+      <publishTime>01/21/2022 16:36:54</publishTime>
+    </File>
+    <File Include="images/peppermint-tea-on-teacup-1417945-1200x826225900070.jpg">
+      <publishTime>01/13/2022 08:59:00</publishTime>
+    </File>
+    <File Include="images/randa.jpg">
+      <publishTime>01/14/2022 13:54:12</publishTime>
+    </File>
+    <File Include="images/rewan.jpg">
+      <publishTime>01/14/2022 14:15:50</publishTime>
+    </File>
+    <File Include="images/tbl_articles_article_27304_23450ded47d-cecf-4cbd-a5e5-f24e565b9fbc221454991.jpg">
+      <publishTime>01/13/2022 09:14:54</publishTime>
     </File>
     <File Include="libman.json">
       <publishTime>02/02/2022 13:25:21</publishTime>
@@ -567,37 +618,37 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/08/2022 13:33:36</publishTime>
     </File>
     <File Include="Views/Home/AddCategory.cshtml">
-      <publishTime>02/20/2022 04:45:14</publishTime>
+      <publishTime>07/02/2022 08:09:50</publishTime>
     </File>
     <File Include="Views/Home/AddNew.cshtml">
-      <publishTime>02/20/2022 04:48:31</publishTime>
+      <publishTime>07/02/2022 07:21:41</publishTime>
     </File>
     <File Include="Views/Home/Edit.cshtml">
-      <publishTime>02/20/2022 04:51:02</publishTime>
+      <publishTime>07/02/2022 08:16:09</publishTime>
     </File>
     <File Include="Views/Home/EditCat.cshtml">
-      <publishTime>02/20/2022 04:51:22</publishTime>
+      <publishTime>07/02/2022 07:21:24</publishTime>
     </File>
     <File Include="Views/Home/Editor.cshtml">
-      <publishTime>06/03/2022 06:05:04</publishTime>
+      <publishTime>07/02/2022 06:24:24</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>05/21/2022 10:20:49</publishTime>
+      <publishTime>07/01/2022 17:27:21</publishTime>
     </File>
     <File Include="Views/Home/Search.cshtml">
-      <publishTime>03/21/2022 07:07:50</publishTime>
+      <publishTime>07/01/2022 17:42:34</publishTime>
     </File>
     <File Include="Views/Home/SearchEdit.cshtml">
-      <publishTime>05/08/2022 20:52:36</publishTime>
+      <publishTime>07/02/2022 08:13:44</publishTime>
     </File>
     <File Include="Views/Index/LogIn.cshtml">
       <publishTime>02/20/2022 04:54:01</publishTime>
     </File>
     <File Include="Views/Index/Register.cshtml">
-      <publishTime>02/20/2022 04:54:14</publishTime>
+      <publishTime>07/02/2022 07:24:31</publishTime>
     </File>
     <File Include="Views/shared/_layout.cshtml">
-      <publishTime>06/03/2022 06:05:14</publishTime>
+      <publishTime>07/02/2022 06:45:45</publishTime>
     </File>
     <File Include="Views/web.config">
       <publishTime>01/13/2022 07:13:23</publishTime>

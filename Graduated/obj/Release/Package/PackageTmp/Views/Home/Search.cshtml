@@ -5,30 +5,29 @@
 }
 
 @section link{
-    <nav class="container-fluid">
-        <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6">
-            <a style="text-decoration:none;display:flex;" href="~/Home/Index"><h1 class="logo"> BaliBey<img src="~/images/magic.png" alt="magic" width="47" /> </h1></a>
-        </div>
-        <div class="col-xl-8 col-lg-8 col-md-4 col-sm-4 col-2">
-            <div class="dropdown">
-                <button onclick="myFunction()" class="dropbtn" style=" border: 3px solid White;
-                                                                           border-radius: 10px;">
-                    <i style="margin-right:2px;" class="fas fa-list-ul dropbtn"></i>
-                </button>
-                <div id="show" class="dropdown-content">
-                    <a class="li a" href="~/Home/Index"><i style="margin-right:2px;" class="fas fa-mug-hot"></i> Menu</a>
-                    <a class="li a" href="#search"> <i style="margin-right:2px;" class="fas fa-search"></i>  Search Menu </a>
-                    <a class="li a" href="#about"> <i style="margin-right:2px;" class="fas fa-address-card"> </i>  About Us </a>          
-                    <a class="li a" href="#Social"> <i style="margin-right:2px;" class="fas fa-headphones-alt"> </i>  Contacts </a>
-                </div>
-            </div>
-        </div>
-        <div class="Register col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4">
-            <a class="a-log" href="~/Index/LogIn">User LogIn</a>
-        </div>
-    </nav>
+
 }
 @section navlog{
+    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-4 col-6">
+        <a style="text-decoration:none;" href="~/Home/Index"><h1 class="logo">BaliBey<img src="~/images/magic.png" alt="magic" /></h1></a>
+    </div>
+    <div class="col-xl-7 col-lg-7 col-md-3 col-sm-4 col-2">
+        <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn" style=" border: 3px solid White;
+                                                                       border-radius: 10px;">
+                <i style="margin-right:2px;" class="fas fa-list-ul dropbtn"></i>
+            </button>
+            <div id="show" class="dropdown-content">
+                <a class="li a" href="~/Home/Index"><i style="margin-right:2px;" class="fas fa-mug-hot"></i> Menu</a>
+                <a class="li a" href="#search"> <i style="margin-right:2px;" class="fas fa-search"></i>  Search Menu </a>
+                <a class="li a" href="#about"> <i style="margin-right:2px;" class="fas fa-address-card"> </i>  About Us </a>
+                <a class="li a" href="#Social"> <i style="margin-right:2px;" class="fas fa-headphones-alt"> </i>  Contacts </a>
+            </div>
+        </div>
+    </div>
+    <div class="Register col-xl-2 col-lg-2 col-md-3 col-sm-4 col-4">
+        <a class="a-log" href="~/Index/LogIn">User LogIn</a>
+    </div>
 }
 
 
@@ -47,11 +46,11 @@
         }
         else
         {
-            if (ViewData["radio"]=="Item")
+            if (ViewData["radio"] == "Item")
             {
                 <button class="show" onclick="openFunction();" data-aos="flip-up" data-aos-duration="1500">
 
-                        <p> &clubs; Menu Items &clubs;</p>
+                    <p> &clubs; Menu Items &clubs;</p>
                 </button>
             }
             else

@@ -65,10 +65,14 @@
     width: 100%;
     border-style: none;
     text-align: center;
-    font-size: 25px;
+    font-size: 100%;
     cursor:pointer;
 }
-@media(max-width:580px){
+select:focus option:checked{
+    background-color:#008e76;
+    color:white;
+}
+@media(max-width:650px){
     .Form{
         font-size:15px;
     }
